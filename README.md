@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitjhall
-- 👀 I’m interested in ... Software testing
+- 👀 I’m interested in ... Software testing;;
 - 🌱 I’m currently learning ... Selenium Web driver with Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ankitjhall33@gmail.com
